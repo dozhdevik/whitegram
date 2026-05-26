@@ -9,15 +9,15 @@
     {
       "name": "Whitegram",
       "bundleIdentifier": "the.whitegram.app",
-      "developerName": "nameless",
+      "developerName": "heypain",
       "version": "5.1",
       "versionDate": "2026-05-26",
       "versionDescription": "Релиз версии 5.1",
       "downloadURL": "https://github.com/dozhdevik/whitegram/releases/download/release/wg5.1.ipa",
       "localizedDescription": "Модифицированная версия клиента Telegram.",
-      "iconURL": "https://raw.githubusercontent.com/dozhdevik/whitegram/main/icon.png",
-      "tintColor": "#55a7e3",
-      "size": 100000000
+      "iconURL": "https://raw.githubusercontent.com/dozhdevik/whitegram/main/appicon.png",
+      "tintColor": "#ced3d7",
+      "size": 159606444
     }
   ]
 }
